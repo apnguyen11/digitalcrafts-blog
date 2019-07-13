@@ -1,0 +1,65 @@
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+.intro {
+    text-align: center;
+}
+
+#digitalcrafts{
+    text-indent: 50px ;
+    
+}
+
+header ul li {
+    display: inline;
+    text-align: right;
+    float: right;
+} 
+header h1 {
+    text-indent: 50px;
+}
+
+header h1, header nav {
+    display: inline-table;
+    /*border: solid 1px black;*/
+} 
+
+.bluebox {
+    background: #429bf5;
+    border-radius: 5px;
+    display: inline;
+    float: middle;
+    margin: 350px;
+    padding: 8px;
+}
+
+body {
+    margin: 200px;
+    background-color: #d2d2d4;
+    padding: 10px;
+}
+
+.one {
+    display: inline-table;
+}
+li {
+    padding: 10px;
+}
+
+
+/*
+header h1 {
+    border: solid 1px blue;
+    width: 50%; 
+    display: inline-block;
+}
+
+
+header nav {
+    border: solid 1px green;
+    width: 50%;
+    display: inline-block;
+}
+*/
